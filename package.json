@@ -15,7 +15,9 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "css-loader": "^7.1.2",
     "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "eslint-config-next": "14.2.5",
+    "postcss-loader": "^8.1.1"
   }
 }
